@@ -1,2 +1,1 @@
-# IC-1
-Implementação dos Algorítimos de Piecewise Aggregate Approximation, Symbolic Aggregate Approximation, ClipsMiner, Fourier e Wavelets
+**Implementação dos Algorítimos de Piecewise Aggregate Approximation, Symbolic Aggregate Approximation, ClipsMiner, Fourier e Wavelets**
